@@ -95,16 +95,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Globien Wiki Dictionary",
-        href: "https://github.com/globien/globien.github.io/wiki"
-    },{
-        title: "Globien Community",
-        href: "https://globien.fandom.com/wiki/Globien_Wiki"
-    },{
         title: "知乎",
         href: "https://zhihu.com/"
-    },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78"
     }
 ]
